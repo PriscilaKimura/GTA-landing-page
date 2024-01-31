@@ -1,4 +1,4 @@
-## GTA Game Store Landing Page
+# GTA Game Store Landing Page
 
 ## Descrição do Projeto
 
@@ -20,9 +20,9 @@ Bem-vindo à GTA Game Store Landing Page! Este projeto consiste em uma página w
 
 ## Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 
 https://github.com/PriscilaKimura/GTA-landing-page/assets/141864300/8f6ac983-9052-4b28-95d7-b4c64de80d28
 
